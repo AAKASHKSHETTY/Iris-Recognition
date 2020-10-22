@@ -22,3 +22,6 @@ Used for:
 <img width="284" alt="iris" src="https://user-images.githubusercontent.com/58876667/96844893-b2483700-146d-11eb-975e-f236aed325c6.png">
 
 ### Preprocessing
+<img width="585" alt="Screenshot 2020-10-22 at 2 00 07 PM" src="https://user-images.githubusercontent.com/58876667/96846379-744c1280-146f-11eb-8bbd-f42c40e6e75a.png">
+
+## Segmentation
