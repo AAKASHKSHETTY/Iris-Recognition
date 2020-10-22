@@ -24,5 +24,9 @@ Used for:
 ### Preprocessing
 <img width="585" alt="Screenshot 2020-10-22 at 2 00 07 PM" src="https://user-images.githubusercontent.com/58876667/96846379-744c1280-146f-11eb-8bbd-f42c40e6e75a.png">
 
-## Segmentation
+### Segmentation
 <img width="613" alt="Screenshot 2020-10-22 at 2 09 42 PM" src="https://user-images.githubusercontent.com/58876667/96847024-4c10e380-1470-11eb-93b9-de5bc47af5ae.png">
+
+### Unwrapping
+
+### encoding 
