@@ -33,6 +33,7 @@ def find_iris_hough(img):
     return circles[0, 0][0], circles[0, 0][1], circles[0, 0][2]
 
 if __name__ == '__main__':
+    #input image
     image = cv2.imread("iris1.bmp")
     newImage = image.copy()
     img = preprocess(image)
