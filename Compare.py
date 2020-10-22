@@ -21,6 +21,7 @@ def encode_photo(image):
     return iris_encode(iris)
 
 if __name__ == '__main__':
+    # input images to compare
     image = cv2.imread('iris1.bmp')
     image2 = cv2.imread('iris1.bmp')
     print(image.shape)
