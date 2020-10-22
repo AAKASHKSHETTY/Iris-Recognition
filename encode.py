@@ -70,6 +70,7 @@ def iris_encode(img, dr=15, dtheta=15, alpha=0.4):
 if __name__ == '__main__':
     import cv2
     import matplotlib.pyplot as plt
+    # input image
     image = cv2.imread('iris.bmp')
     iris = unravel_iris(image, 444, 334, 66, 450, 352, 245)
     code, mask = iris_encode(iris)
