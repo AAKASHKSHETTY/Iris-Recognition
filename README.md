@@ -29,4 +29,5 @@ Used for:
 
 ### Unwrapping
 
-### encoding 
+### Encoding 
+<img width="358" alt="Screenshot 2020-10-22 at 2 01 54 PM" src="https://user-images.githubusercontent.com/58876667/96847496-e1ac7300-1470-11eb-82c3-1c392b5d2f08.png">
