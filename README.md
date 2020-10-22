@@ -1,7 +1,7 @@
 # Iris-Recognition
 Python
 
-# Imported libraries:
+## Imported libraries:
 ### matplotlib.pyplot :
 pylab is a module within the matplotlib library that was built to mimic MATLAB’s global style. It exists only to bring a number of functions and classes from both NumPy and matplotlib into the namespace, making for an easy transition for former MATLAB users who were not used to needing import statements.
 Used for:
@@ -17,6 +17,7 @@ Numpy is a library that used for computing scientific/mathematical data. Numpy t
 - Numerical Analysis - Linear algebra - Matrix computations
 Used for:
  In our project numpy is used for managing several calculations like abosule etc. Moreover, it is also used to handle matrix calculations and allows us better management of arrays for its manipulation and better results.
+## Output
 
 ### Image Acquisition:
 <img width="284" alt="iris" src="https://user-images.githubusercontent.com/58876667/96844893-b2483700-146d-11eb-975e-f236aed325c6.png">
@@ -28,6 +29,10 @@ Used for:
 <img width="613" alt="Screenshot 2020-10-22 at 2 09 42 PM" src="https://user-images.githubusercontent.com/58876667/96847024-4c10e380-1470-11eb-93b9-de5bc47af5ae.png">
 
 ### Unwrapping
+<img width="285" alt="Screenshot 2020-10-22 at 2 16 12 PM" src="https://user-images.githubusercontent.com/58876667/96847831-4536a080-1471-11eb-96fa-3e556dbcb762.png">
 
 ### Encoding 
 <img width="358" alt="Screenshot 2020-10-22 at 2 01 54 PM" src="https://user-images.githubusercontent.com/58876667/96847496-e1ac7300-1470-11eb-82c3-1c392b5d2f08.png">
+
+## Results
+Results while highly dependent on the resolution of the images and the distance of the subject's eye while capturing the image. Results are slightly affected if the person being scanned is not looking directly into the scanner, Because the circle does not cover the iris and pupil as it should in normal cases. Result are seen to best where maximum portion of the image is covered by the Iris and pupil and not the eyelids and unnecessary background.
